@@ -6,6 +6,9 @@ A curated list of anything related to Neural Cellular Automata (NCA) research, f
 NCA are a new type of neural architecture, marrying concepts of traditional cellular automata and feed forward neural networks.
 This list is a curated collection of research papers and code repositories, presenting new ideas and applications for NCA.
 
+Scope: Other types of self-organizing systems, traditional cellular automata, other deep learning techiques are not covered,
+unless they utilize a cellular automaton with a learned rule at some point.
+
 Feel free to [contribute](#contributing).
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -46,6 +49,7 @@ NCA code repositories.
 * [Growing-Neural-Cellular-Automata (Pytorch)](https://github.com/chenmingxiang110/Growing-Neural-Cellular-Automata/tree/master): Pytorch implementation of "Growing Neural Cellular Automata", including interactive pygame demo.
 * [M3D NCA](https://github.com/MECLabTUDA/M3D-NCA): Implementation of Med-NCA, M3D-NCA and related works.
 * [VAE-NCA](https://github.com/chenmingxiang110/VAE-NCA): Reproduction of VAE NCA
+* [NCALab](https://github.com/MECLabTUDA/NCAlab): Framework for training and evaluation of NCA models, including various examples for classification, segmentation, etc.
 
 
 
