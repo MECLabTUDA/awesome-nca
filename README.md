@@ -53,6 +53,7 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 * [Evolving Hierarchical Neural Cellular Automata](https://dl.acm.org/doi/pdf/10.1145/3638529.3654150), Bielawski et al. 2024
 * [Skin lesion segmentation via Neural Cellular Automata](https://www.sciencedirect.com/science/article/pii/S1746809424006050), Yue et al. 2024
 * [An Organism Starts with a Single Pix-Cell: A Neural Cellular Diffusion for High-Resolution Image Synthesis](https://arxiv.org/pdf/2407.03018), Elbatel et al. 2024
+* [Deep learning with photonic neural cellular automata](https://www.nature.com/articles/s41377-024-01651-7), Li et al. 2024
 * [eNCApsulate: Neural Cellular Automata for Precision Diagnosis on Capsule Endoscopes](https://arxiv.org/pdf/2504.21562), Krumb & Mukhopadhyay 2025
 * [NCAdapt: Dynamic Adaptation with Domain-Specific Neural Cellular Automata for Continual Hippocampus Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10943578), Ranem & Mukhopadhyay 2025
 * [Unraveling Neural Cellular Automata for Lightweight Image Compression](https://openreview.net/pdf?id=gIrVoQEDQv), Falcao et al. 2025
@@ -85,6 +86,7 @@ None so far
 | [Paper](https://arxiv.org/pdf/2410.22265)              | 2024 | MRI Registration (Prostate, Hippocampus, other) | OASIS-1, PROMISE12, Dryad | [torch](https://github.com/MECLabTUDA/NCA-Morph) | 3D NCA with patchification |
 | [Paper](https://arxiv.org/pdf/2407.18114)              | 2024 | X-ray segmentation on smartphone | Padchest, ChestX-ray8, MIMIC-III | [torch](https://arxiv.org/pdf/github.com/MECLabTUDA/M3D-NCA) | Med-NCA, trained with variance-weighted loss |
 | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78186-5_25) | 2024 | Classification | CIFAR-10-C | N/A | NCA + VAE |
+| [Paper](https://www.nature.com/articles/s41377-024-01651-7) | 2024 | Classification | FashionMNIST | N/A | NCA on photonics hardware |
 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3638529.3654150) | 2024 | Shape generation | Custom shapes | [numpy+numba](https://github.com/ngaylinn/mocs-final) | HNCA (Hierarchical NCA) |
 | [Paper](https://www.sciencedirect.com/science/article/pii/S1746809424006050) | 2024 | Skin lesion segmentation | ISIC2017 | N/A | UNet-style network with NCA bottleneck |
 | [Paper](https://arxiv.org/pdf/2407.03018)              | 2024 | Generation          | Optical Coherence Tomography  | [torch]( https://github.com/xmed-lab/GeCA) | Diffusion + NCA |
@@ -116,8 +118,9 @@ NCA code repositories, including accompanying repositories for publications list
 
 Cool demo videos and visuals of NCAs in action.
 
-- [Minecraft Morphogenesis](https://www.youtube.com/watch?v=-EzztzKoPeo)
-
+- [Video: Minecraft Morphogenesis](https://www.youtube.com/watch?v=-EzztzKoPeo)
+- [Interactive: Random NCA](https://nailbar.io/proj/curves/test10.html) - Clicking anywhere on the image randomizes the rule.
+- 
 
 ## Contributing
 
