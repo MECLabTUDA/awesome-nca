@@ -41,6 +41,7 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 * [M3D-NCA: Robust 3D Segmentation with Built-in Quality Control](https://arxiv.org/pdf/2309.02954), Kalkhof & Mukhopadhyay 2023
 * [NCA-Morph: Medical Image Registration with Neural Cellular Automata](https://arxiv.org/pdf/2410.22265), Ranem et al. 2024
 * [Unsupervised Training of Neural Cellular Automata on Edge Devices](https://arxiv.org/pdf/2407.18114), Kalkhof et al. 2024
+* [Localized Data Representation with NCA-Based Autoencoders](https://link.springer.com/chapter/10.1007/978-3-031-78186-5_25), Ihm et al. 2024
 * [MED-NCA: Bio-inspired medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841525001483), Kalkhof et al. 2025
 * [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/), Miotti et al. 2025
 
