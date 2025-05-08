@@ -1,8 +1,14 @@
 # Awesome-NCA
 
+
 A curated list of anything related to Neural Cellular Automata (NCA) research, frameworks and applications.
 
+NCA are a new type of neural architecture, marrying concepts of traditional cellular automata and feed forward neural networks.
+This list is a curated collection of research papers and code repositories, presenting new ideas and applications for NCA.
+
 Feel free to [contribute](#contributing).
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 --------------------
 
