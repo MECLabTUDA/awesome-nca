@@ -50,6 +50,7 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 * [Localized Data Representation with NCA-Based Autoencoders](https://link.springer.com/chapter/10.1007/978-3-031-78186-5_25), Ihm et al. 2024
 * [Evolving Hierarchical Neural Cellular Automata](https://dl.acm.org/doi/pdf/10.1145/3638529.3654150), Bielawski et al. 2024
 * [Skin lesion segmentation via Neural Cellular Automata](https://www.sciencedirect.com/science/article/pii/S1746809424006050), Yue et al. 2024
+* [eNCApsulate: Neural Cellular Automata for Precision Diagnosis on Capsule Endoscopes](https://arxiv.org/pdf/2504.21562), Krumb & Mukhopadhyay 2025
 * [Unraveling Neural Cellular Automata for Lightweight Image Compression](https://openreview.net/pdf?id=gIrVoQEDQv), Falcao et al. 2025
 * [MED-NCA: Bio-inspired medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841525001483), Kalkhof et al. 2025
 * [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/), Miotti et al. 2025
