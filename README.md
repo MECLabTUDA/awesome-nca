@@ -33,6 +33,7 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 * [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/), Mordvintsev et al. 2020
 * [Self-classifying MNIST Digits](https://distill.pub/2020/selforg/mnist/), Randazzo et al. 2020
 * [Image Generation With Neural Cellular Automata](https://arxiv.org/abs/2010.04949), Chen & Wang 2020
+* [Predicting Geographic Information with Neural Cellular Automata](https://arxiv.org/pdf/2009.09347), Chen et al. 2020
 * [Self-organizing Textures](https://distill.pub/selforg/2021/textures/), Niklasson et al. 2021
 * [Growing 3D Artefacts and Functional Machines with Neural Cellular Automata](https://arxiv.org/abs/2103.08737), Sudhakaran et al. 2021
 * [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial/), Randazzo et al. 2021
@@ -42,6 +43,7 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 * [NCA-Morph: Medical Image Registration with Neural Cellular Automata](https://arxiv.org/pdf/2410.22265), Ranem et al. 2024
 * [Unsupervised Training of Neural Cellular Automata on Edge Devices](https://arxiv.org/pdf/2407.18114), Kalkhof et al. 2024
 * [Localized Data Representation with NCA-Based Autoencoders](https://link.springer.com/chapter/10.1007/978-3-031-78186-5_25), Ihm et al. 2024
+* [Unraveling Neural Cellular Automata for Lightweight Image Compression](https://openreview.net/pdf?id=gIrVoQEDQv), Falcao et al. 2025
 * [MED-NCA: Bio-inspired medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841525001483), Kalkhof et al. 2025
 * [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/), Miotti et al. 2025
 
@@ -52,6 +54,7 @@ NCA code repositories, including accompanying repositories for publications list
 * [Growing-Neural-Cellular-Automata (Pytorch)](https://github.com/chenmingxiang110/Growing-Neural-Cellular-Automata/tree/master): Pytorch implementation of "Growing Neural Cellular Automata", including interactive pygame demo.
 * [M3D NCA](https://github.com/MECLabTUDA/M3D-NCA): Implementation of Med-NCA, M3D-NCA and related works.
 * [VAE-NCA](https://github.com/chenmingxiang110/VAE-NCA): Reproduction of VAE NCA
+* [Predicting Geographic Information with Neural Cellular Automata](https://github.com/chenmingxiang110/NCA_Prediction): Reproduction of [paper](https://arxiv.org/pdf/2009.09347).
 * [NCALab](https://github.com/MECLabTUDA/NCAlab): Framework for training and evaluation of NCA models, including various examples for classification, segmentation, etc.
 * [Growing 3D Artefacts and Functional Machines with Neural Cellular Automata](https://github.com/real-itu/3d-artefacts-nca): Using NCA for generating Minecraft structures
 
