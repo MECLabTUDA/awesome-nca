@@ -123,6 +123,7 @@ Tutorials and study material related to NCA.
 - [Video: What are Neural Cellular Automata?](https://www.youtube.com/watch?v=3H79ZcBuw4M)
 - [Youtube-Channel: Programmable Artificial Life](https://www.youtube.com/@zzznah/videos) - Several videos on NCA
 - [Two-minute Papers feature of Growing NCA](https://www.youtube.com/watch?v=bXzauli1TyU)
+- [NCA do active inference](https://aman-bhargava.com/ai/neuro/neuromorphic/2024/03/25/nca-do-active-inference.html)
 
 
 ## Videos and Visuals
