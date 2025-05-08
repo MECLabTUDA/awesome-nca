@@ -45,6 +45,7 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 * [Variational Neural Cellular Automata](https://arxiv.org/pdf/2201.12360), Palm et al. 2022
 * [Empowered Neural Cellular Automata](https://arxiv.org/pdf/2205.06771), Grasso & Bongard 2022
 * [Attention-based Neural Cellular Automata](https://proceedings.neurips.cc/paper_files/paper/2022/file/361e5112d2eca09513bbd266e4b2d2be-Paper-Conference.pdf), Tasfaldet et al. 2022
+* [HyperNCA: Growing Developmental Networks with NCA](https://arxiv.org/pdf/2204.11674), Najarro et al. 2022
 * [Med-NCA, Robust and Lightweight Segmentation with Neural Cellular Automata](https://arxiv.org/abs/2302.03473), Kalkhof et al. 2023
 * [M3D-NCA: Robust 3D Segmentation with Built-in Quality Control](https://arxiv.org/pdf/2309.02954), Kalkhof & Mukhopadhyay 2023
 * [Growing Steerable Neural Cellular Automata](https://arxiv.org/abs/2302.10197), Randazzo et al. 2023
@@ -82,6 +83,7 @@ None so far
 | [Paper](https://arxiv.org/pdf/2201.12360)              | 2022 | Gen. Modelling      | Emojis, CelebA                | [torch](https://github.com/rasmusbergpalm/vnca) | NCA + VAE |
 | [Paper](https://arxiv.org/pdf/2205.06771)              | 2022 | Grow from seed      | Custom shapes                 | [numpy](https://github.com/caitlingrasso/empowered-nca) | NCA trained with information-theoretic fitness function and age-fitness pareto optimization |
 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/361e5112d2eca09513bbd266e4b2d2be-Paper-Conference.pdf) | 2022 | Classification | Tiny ImageNet, MNIST, FashionMNIST, CelebA | N/A  | ViT + NCA (ViTCA) |
+| [Paper](https://arxiv.org/pdf/2204.11674)              | 2022 | Generating policy networks for reinforcement learning | | [torch](https://github.com/enajx/hyperNCA) | 3D NCA |
 | [Paper](https://arxiv.org/abs/2302.03473)              | 2023 | MRI Segmentation on Raspberry Pi | Decathlon (Hippocampus & Prostate), ISBI 2013 challenge | [torch](https://github.com/MECLabTUDA/Med-NCA)  | Multi-scale NCA |
 | [Paper](https://arxiv.org/pdf/2309.02954)              | 2023 | MRI Segmentation on Raspberry Pi | Decathlon (Hippocampus & Prostate) | [torch](https://github.com/MECLabTUDA/M3D-NCA) | 3D NCA with patchification |
 | [Paper](https://arxiv.org/pdf/2302.10197)              | 2023 | Grow from seed(s)   | Emojis                        | [dead link?](https://github.com/google-research/selforganising-systems/tree/master/isotropic_nca) | Steerable NCA |
