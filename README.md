@@ -60,6 +60,20 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 
 ### Restricted Access
 
+None so far
+
+### Overview
+
+| Paper URL                                           | Year | Downstream Task    | Dataset(s)                    | Code | Model              |
+| --------------------------------------------------- | ---- | ------------------ | ----------------------------- | ---- | ------------------ |
+| [Paper](https://distill.pub/2020/growing-ca/)       | 2020 | Growth             | Emojis                        |      | NCA                |
+| [Paper](https://distill.pub/2020/selforg/mnist/)    | 2020 | Classification     | MNIST Digits                  |      | NCA                |
+| [Paper](https://arxiv.org/abs/2010.04949)           | 2020 | Generation         | Emojis, MNIST, CelebA         |      | NCA + VAE          |
+| [Paper](https://arxiv.org/pdf/2009.09347)           | 2020 | Traffic Prediction | Maps+Traffic overlay (custom) |      | Multi-layer NCA    |
+| [Paper](https://distill.pub/selforg/2021/textures/) | 2021 | Texture Generation | [Dataset](https://arxiv.org/pdf/1311.3618) | | NCA        |
+| [Paper](https://arxiv.org/abs/2103.08737)           | 2021 | 3D Structure Gen.  | Minecraft Structures          |      | Multi-layer 3D NCA |
+
+This table is work in progress.
 
 ## Code
 
