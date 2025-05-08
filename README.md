@@ -69,11 +69,11 @@ None so far
 | ------------------------------------------------------ | ---- | ------------------ | ----------------------------- | ---- | ------------------ |
 | [Paper](https://distill.pub/2020/growing-ca/)          | 2020 | Grow from seed     | Emojis                        | [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/growing_ca.ipynb), [torch](https://github.com/chenmingxiang110/Growing-Neural-Cellular-Automata/tree/master) | NCA |
 | [Paper](https://distill.pub/2020/selforg/mnist/)       | 2020 | Classification     | MNIST Digits                  | [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/mnist_ca.ipynb) | NCA                |
-| [Paper](https://arxiv.org/abs/2010.04949)              | 2020 | Generation         | Emojis, MNIST, CelebA         |      | NCA + VAE          |
-| [Paper](https://arxiv.org/pdf/2009.09347)              | 2020 | Traffic Prediction | Maps+Traffic overlay (custom) |      | Multi-layer NCA    |
-| [Paper](https://distill.pub/selforg/2021/textures/)    | 2021 | Texture Generation | [Dataset](https://arxiv.org/pdf/1311.3618) | | NCA        |
-| [Paper](https://arxiv.org/abs/2103.08737)              | 2021 | 3D Structure Gen.  | Minecraft Structures          |      | Multi-layer 3D NCA |
-| [Paper](https://distill.pub/selforg/2021/adversarial/) | 2021 | Classification, Reprogramming | MNIST              |      | NCA                |
+| [Paper](https://arxiv.org/abs/2010.04949)              | 2020 | Generation         | Emojis, MNIST, CelebA         | [torch](https://github.com/chenmingxiang110/VAE-NCA) | NCA + VAE          |
+| [Paper](https://arxiv.org/pdf/2009.09347)              | 2020 | Traffic Prediction | Maps+Traffic overlay (custom) | [torch](https://github.com/chenmingxiang110/NCA_Prediction) | Multi-layer NCA    |
+| [Paper](https://distill.pub/selforg/2021/textures/)    | 2021 | Texture Generation | [Dataset](https://arxiv.org/pdf/1311.3618) | [torch](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/texture_nca_pytorch.ipynb), [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/texture_nca_tf2.ipynb) | NCA        |
+| [Paper](https://arxiv.org/abs/2103.08737)              | 2021 | 3D Structure Gen.  | Minecraft Structures          | [torch](https://github.com/real-itu/3d-artefacts-nca) | Multi-layer 3D NCA |
+| [Paper](https://distill.pub/selforg/2021/adversarial/) | 2021 | Classification, Reprogramming | MNIST              | [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/adversarial_reprogramming_ca/adversarial_mnist_ca.ipynb) | NCA                |
 | [Paper](https://arxiv.org/abs/2108.04328)              | 2021 | Generation         | Emojis                        | N/A  | NCA + GAN          |
 | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981214&tag=1) | 2022 | Shape self-classification on µC H/W | Digits (custom, but simple)   | N/A               | NCA  |
 | [Paper](https://arxiv.org/pdf/2205.06806)              | 2022 |                    | Emojis                        | [torch](https://github.com/shyamsn97/controllable-ncas) | NCA  |
