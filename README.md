@@ -44,7 +44,7 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 
 ## Code
 
-NCA code repositories.
+NCA code repositories, including accompanying repositories for publications listed above.
 
 * [Growing-Neural-Cellular-Automata (Pytorch)](https://github.com/chenmingxiang110/Growing-Neural-Cellular-Automata/tree/master): Pytorch implementation of "Growing Neural Cellular Automata", including interactive pygame demo.
 * [M3D NCA](https://github.com/MECLabTUDA/M3D-NCA): Implementation of Med-NCA, M3D-NCA and related works.
@@ -60,5 +60,4 @@ Contribution guidelines can be found in [CONTRIBUTING.md](https://github.com/MEC
 ## License
 
 This list is under the [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0) License.
-Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).  
 The list of authors can be found in the [AUTHORS](https://github.com/MECLabTUDA/awesome-nca/blob/main/AUTHORS.md) file.
