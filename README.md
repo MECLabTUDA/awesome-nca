@@ -52,6 +52,7 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 * [Localized Data Representation with NCA-Based Autoencoders](https://link.springer.com/chapter/10.1007/978-3-031-78186-5_25), Ihm et al. 2024
 * [Evolving Hierarchical Neural Cellular Automata](https://dl.acm.org/doi/pdf/10.1145/3638529.3654150), Bielawski et al. 2024
 * [Skin lesion segmentation via Neural Cellular Automata](https://www.sciencedirect.com/science/article/pii/S1746809424006050), Yue et al. 2024
+* [An Organism Starts with a Single Pix-Cell: A Neural Cellular Diffusion for High-Resolution Image Synthesis](https://arxiv.org/pdf/2407.03018), Elbatel et al. 2024
 * [eNCApsulate: Neural Cellular Automata for Precision Diagnosis on Capsule Endoscopes](https://arxiv.org/pdf/2504.21562), Krumb & Mukhopadhyay 2025
 * [NCAdapt: Dynamic Adaptation with Domain-Specific Neural Cellular Automata for Continual Hippocampus Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10943578), Ranem & Mukhopadhyay 2025
 * [Unraveling Neural Cellular Automata for Lightweight Image Compression](https://openreview.net/pdf?id=gIrVoQEDQv), Falcao et al. 2025
@@ -64,14 +65,35 @@ None so far
 
 ### Overview
 
-| Paper URL                                           | Year | Downstream Task    | Dataset(s)                    | Code | Model              |
-| --------------------------------------------------- | ---- | ------------------ | ----------------------------- | ---- | ------------------ |
-| [Paper](https://distill.pub/2020/growing-ca/)       | 2020 | Growth             | Emojis                        |      | NCA                |
-| [Paper](https://distill.pub/2020/selforg/mnist/)    | 2020 | Classification     | MNIST Digits                  |      | NCA                |
-| [Paper](https://arxiv.org/abs/2010.04949)           | 2020 | Generation         | Emojis, MNIST, CelebA         |      | NCA + VAE          |
-| [Paper](https://arxiv.org/pdf/2009.09347)           | 2020 | Traffic Prediction | Maps+Traffic overlay (custom) |      | Multi-layer NCA    |
-| [Paper](https://distill.pub/selforg/2021/textures/) | 2021 | Texture Generation | [Dataset](https://arxiv.org/pdf/1311.3618) | | NCA        |
-| [Paper](https://arxiv.org/abs/2103.08737)           | 2021 | 3D Structure Gen.  | Minecraft Structures          |      | Multi-layer 3D NCA |
+| Paper URL                                              | Year | Downstream Task    | Dataset(s)                    | Code | Model              |
+| ------------------------------------------------------ | ---- | ------------------ | ----------------------------- | ---- | ------------------ |
+| [Paper](https://distill.pub/2020/growing-ca/)          | 2020 | Growth             | Emojis                        | [torch](https://github.com/chenmingxiang110/Growing-Neural-Cellular-Automata/tree/master) | NCA |
+| [Paper](https://distill.pub/2020/selforg/mnist/)       | 2020 | Classification     | MNIST Digits                  |      | NCA                |
+| [Paper](https://arxiv.org/abs/2010.04949)              | 2020 | Generation         | Emojis, MNIST, CelebA         |      | NCA + VAE          |
+| [Paper](https://arxiv.org/pdf/2009.09347)              | 2020 | Traffic Prediction | Maps+Traffic overlay (custom) |      | Multi-layer NCA    |
+| [Paper](https://distill.pub/selforg/2021/textures/)    | 2021 | Texture Generation | [Dataset](https://arxiv.org/pdf/1311.3618) | | NCA        |
+| [Paper](https://arxiv.org/abs/2103.08737)              | 2021 | 3D Structure Gen.  | Minecraft Structures          |      | Multi-layer 3D NCA |
+| [Paper](https://distill.pub/selforg/2021/adversarial/) | 2021 | Classification, Reprogramming | MNIST              |      | NCA                |
+| [Paper](https://arxiv.org/abs/2108.04328)              | 2021 | Generation         | Emojis                        | N/A  | NCA + GAN          |
+| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981214&tag=1) | 2022 | Shape self-classification on µC H/W | Digits (custom, but simple)   | N/A  | NCA                |
+| [Paper](https://arxiv.org/pdf/2205.06806)              | 2022 | | | | |
+| [Paper](https://arxiv.org/pdf/2201.12360)              | 2022 | | | | |
+| [Paper](https://arxiv.org/pdf/2205.06771)              | 2022 | | | | |
+| [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/361e5112d2eca09513bbd266e4b2d2be-Paper-Conference.pdf) | 2022 | | | | ViT + NCA (ViTCA) |
+| [Paper](https://arxiv.org/abs/2302.03473)              | 2023 | | | | |
+| [Paper](https://arxiv.org/pdf/2309.02954)              | 2023 | | | | |
+| [Paper](https://arxiv.org/pdf/2410.22265)              | 2024 | | | | |
+| [Paper](https://arxiv.org/pdf/2407.18114)              | 2024 | | | | |
+| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78186-5_25) | 2024 | | | | |
+| [Paper](https://dl.acm.org/doi/pdf/10.1145/3638529.3654150) | 2024 | | | | |
+| [Paper](https://www.sciencedirect.com/science/article/pii/S1746809424006050) | 2024 | | | | |
+| [Paper](https://arxiv.org/pdf/2407.03018) | 2024 | Generation | | | Diffusion + NCA |
+| [Paper](https://arxiv.org/pdf/2504.21562)              | 2025 | Segmentation, Depth Est., edge AI | Capsule Endoscopic | [torch](https://github.com/MECLabTUDA/eNCApsulate) | NCA |
+| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10943578) | 2025 | | | | |
+| [Paper](https://openreview.net/pdf?id=gIrVoQEDQv)      | 2025 | | | | |
+| [Paper](https://www.sciencedirect.com/science/article/pii/S1361841525001483) | 2025 | | | | |
+| [Paper](https://google-research.github.io/self-organising-systems/difflogic-ca/) | 2025 | | | | |
+
 
 This table is work in progress.
 
