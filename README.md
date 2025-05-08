@@ -61,6 +61,7 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 * [Unraveling Neural Cellular Automata for Lightweight Image Compression](https://openreview.net/pdf?id=gIrVoQEDQv), Falcao et al. 2025
 * [MED-NCA: Bio-inspired medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841525001483), Kalkhof et al. 2025
 * [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/), Miotti et al. 2025
+* [Parameter-efficient diffusion with neural cellular automata](https://www.nature.com/articles/s44335-025-00026-4), Kalkhof et al. 2025
 
 ### Restricted Access
 
@@ -100,6 +101,7 @@ Tabular overview of research papers on NCA since 2020, ordered by publication ye
 | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10943578) | 2025       | Continual Hippocampus MRI Segmentation | HarP, Dryad, DecathHip | [torch](https://github.com/MECLabTUDA/NCAdapt) | NCA with adaptible layers and multiple heads |
 | [Paper](https://openreview.net/pdf?id=gIrVoQEDQv)      | 2025 | Image Compression   | COCO 2017                     | N/A | Grid-based, "GNCA" |
 | [Paper](https://google-research.github.io/self-organising-systems/difflogic-ca/) | 2025 | Grow from seed using learned logic gates | Emojis, Icons | [jax](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/diffLogic_CA.ipynb) | Differential Logic Gates + NCA |
+| [Paper](https://www.nature.com/articles/s44335-025-00026-4) | 2025 | Image Generation | CelebA, Pathology | [torch](https://github.com/MECLabTUDA/M3D-NCA/tree/parameter_efficient_diffusion) | FourierDiff-NCA, Fourier-based diffusion |
 
 ## Code
 
