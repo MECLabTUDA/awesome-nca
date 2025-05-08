@@ -75,10 +75,10 @@ None so far
 | [Paper](https://arxiv.org/abs/2103.08737)              | 2021 | 3D Structure Gen.  | Minecraft Structures          |      | Multi-layer 3D NCA |
 | [Paper](https://distill.pub/selforg/2021/adversarial/) | 2021 | Classification, Reprogramming | MNIST              |      | NCA                |
 | [Paper](https://arxiv.org/abs/2108.04328)              | 2021 | Generation         | Emojis                        | N/A  | NCA + GAN          |
-| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981214&tag=1) | 2022 | Shape self-classification on µC H/W | Digits (custom, but simple)   | N/A  | NCA                |
-| [Paper](https://arxiv.org/pdf/2205.06806)              | 2022 |                    | | | |
-| [Paper](https://arxiv.org/pdf/2201.12360)              | 2022 |                    | | | |
-| [Paper](https://arxiv.org/pdf/2205.06771)              | 2022 |                    | | | |
+| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981214&tag=1) | 2022 | Shape self-classification on µC H/W | Digits (custom, but simple)   | N/A               | NCA  |
+| [Paper](https://arxiv.org/pdf/2205.06806)              | 2022 |                    | Emojis                        | [torch](https://github.com/shyamsn97/controllable-ncas) | NCA  |
+| [Paper](https://arxiv.org/pdf/2201.12360)              | 2022 |                    | Emojis, CelebA | [torch](https://github.com/rasmusbergpalm/vnca) | NCA + VAE |
+| [Paper](https://arxiv.org/pdf/2205.06771)              | 2022 | Grow from seed     | Custom shapes  | [numpy](https://github.com/caitlingrasso/empowered-nca) | NCA trained with information-theoretic fitness function and age-fitness pareto optimization |
 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/361e5112d2eca09513bbd266e4b2d2be-Paper-Conference.pdf) | 2022 | | | | ViT + NCA (ViTCA) |
 | [Paper](https://arxiv.org/abs/2302.03473)              | 2023 | MRI Segmentation on Raspberry Pi | Decathlon (Hippocampus & Prostate), ISBI 2013 challenge | [torch](https://github.com/MECLabTUDA/Med-NCA)  | Multi-scale NCA |
 | [Paper](https://arxiv.org/pdf/2309.02954)              | 2023 | MRI Segmentation on Raspberry Pi | Decathlon (Hippocampus & Prostate) | [torch](https://github.com/MECLabTUDA/M3D-NCA) | 3D NCA with patchification|
