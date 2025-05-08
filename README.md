@@ -1,14 +1,14 @@
-# Awesome-NCA
-
+# Awesome NCA
 
 A curated list of anything related to Neural Cellular Automata (NCA) research, frameworks and applications.
 
-NCA are a new type of neural architecture, marrying concepts of traditional cellular automata and feed forward neural networks.
-This list is a curated collection of research papers and code repositories, presenting new ideas and applications for NCA.
+NCA are a new type of neural architecture, marrying cellular automata and neural networks to create memory-efficient, robust models.
+Mostly, NCAs are applied in image segmentation, classification and generation.
+However, there are also works that use NCAs for reinforcement learning or generation of three-dimensional structures.
+This list is a curated collection of research papers and code repositories, presenting ideas and applications for NCA.
 
-Scope: Other types of self-organizing systems, traditional cellular automata, other deep learning techiques are not covered,
-unless they utilize a cellular automaton with a learned rule at some point.
-Review papers are not listed here, unless they are reviews of Neural Cellular Automata in particular (no reviews of, e.g., self-organizing systems in general).
+Scope: Other types of self-organizing systems, traditional cellular automata, other deep learning techiques are not covered, unless they utilize a cellular automaton with a learned rule in their computation.
+Review papers are not listed here, unless they are reviews of Neural Cellular Automata in particular (no reviews of, e.g., self-organizing systems in general that mention NCA).
 
 Feel free to [contribute](#contributing).
 
