@@ -89,12 +89,9 @@ None so far
 | [Paper](https://www.sciencedirect.com/science/article/pii/S1746809424006050) | 2024 | Skin lesion segmentation | ISIC2017 | N/A | UNet-style network with NCA bottleneck |
 | [Paper](https://arxiv.org/pdf/2407.03018)              | 2024 | Generation          | Optical Coherence Tomography  | [torch]( https://github.com/xmed-lab/GeCA) | Diffusion + NCA |
 | [Paper](https://arxiv.org/pdf/2504.21562)              | 2025 | Segmentation, Depth Est., edge AI | Capsule Endoscopic | [torch](https://github.com/MECLabTUDA/eNCApsulate) | NCA |
-| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10943578) | 2025       | Continual Hippocampus MRI Segmentation | HarP, Dryad, DecathHip | | |
+| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10943578) | 2025       | Continual Hippocampus MRI Segmentation | HarP, Dryad, DecathHip | [torch](https://github.com/MECLabTUDA/NCAdapt) | NCA with adaptible layers and multiple heads |
 | [Paper](https://openreview.net/pdf?id=gIrVoQEDQv)      | 2025 | Image Compression   | COCO 2017                     | N/A | Grid-based, "GNCA" |
 | [Paper](https://google-research.github.io/self-organising-systems/difflogic-ca/) | 2025 | Grow from seed using learned logic gates | Emojis, Icons | [jax](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/diffLogic_CA.ipynb) | Differential Logic Gates + NCA |
-
-
-This table is work in progress.
 
 ## Code
 
