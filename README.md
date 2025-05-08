@@ -109,7 +109,7 @@ NCA code repositories, including accompanying repositories for publications list
 - [Video: Growing NCA in Pytorch](https://www.youtube.com/watch?v=21ACbWoF2Oo)
 - [Video: What are Neural Cellular Automata?](https://www.youtube.com/watch?v=3H79ZcBuw4M)
 - [Youtube-Channel: Programmable Artificial Life](https://www.youtube.com/@zzznah/videos) - Several videos on NCA
-- [Two-minutes Paper feature of Growing NCA](https://www.youtube.com/watch?v=bXzauli1TyU)
+- [Two-minute Papers feature of Growing NCA](https://www.youtube.com/watch?v=bXzauli1TyU)
 
 
 ## Videos and Visuals
