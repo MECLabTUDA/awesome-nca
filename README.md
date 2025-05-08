@@ -32,10 +32,10 @@ TBD
 
 ## Contributing
 
-TBD
+Contribution guidelines can be found in [CONTRIBUTING.md](https://github.com/MECLabTUDA/awesome-nca/blob/main/CONTRIBUTING.md)
 
 ## License
 
-This list is under the [Creative Commons Attribution-ShareAlike 4.0](https://github.com/MECLabTUDA/awesome-nca/blob/main/LICENSE) License.
+This list is under the [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0) License.
 Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).  
-The list of authors can be found in the [AUTHORS](https://github.com/MECLabTUDA/awesome-nca/blob/main/AUTHORS) file.
+The list of authors can be found in the [AUTHORS](https://github.com/MECLabTUDA/awesome-nca/blob/main/AUTHORS.md) file.
