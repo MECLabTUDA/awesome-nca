@@ -68,6 +68,8 @@ None so far
 
 ### Overview
 
+Tabular overview of research papers on NCA since 2020, ordered by publication year.
+
 | Paper URL                                              | Year | Downstream Task     | Dataset(s)                    | Code | Model              |
 | ------------------------------------------------------ | ---- | ------------------- | ----------------------------- | ---- | ------------------ |
 | [Paper](https://distill.pub/2020/growing-ca/)          | 2020 | Grow from seed      | Emojis                        | [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/growing_ca.ipynb), [torch](https://github.com/chenmingxiang110/Growing-Neural-Cellular-Automata/tree/master) | NCA |
@@ -111,6 +113,8 @@ NCA code repositories, including accompanying repositories for publications list
 * [Growing 3D Artefacts and Functional Machines with Neural Cellular Automata](https://github.com/real-itu/3d-artefacts-nca): Using NCA for generating Minecraft structures
 
 ## Tutorials
+
+Tutorials and study material related to NCA.
 
 - [Video: Growing NCA in Pytorch](https://www.youtube.com/watch?v=21ACbWoF2Oo)
 - [Video: Growing NCA](https://www.youtube.com/watch?v=9Kec_7WFyp0) - 15 Minute paper review by Yannic Kilcher
