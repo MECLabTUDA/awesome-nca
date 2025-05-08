@@ -80,14 +80,14 @@ None so far
 | [Paper](https://arxiv.org/pdf/2201.12360)              | 2022 |                    | | | |
 | [Paper](https://arxiv.org/pdf/2205.06771)              | 2022 |                    | | | |
 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/361e5112d2eca09513bbd266e4b2d2be-Paper-Conference.pdf) | 2022 | | | | ViT + NCA (ViTCA) |
-| [Paper](https://arxiv.org/abs/2302.03473)              | 2023 | | | | |
-| [Paper](https://arxiv.org/pdf/2309.02954)              | 2023 | | | | |
-| [Paper](https://arxiv.org/pdf/2410.22265)              | 2024 | | | | |
-| [Paper](https://arxiv.org/pdf/2407.18114)              | 2024 | X-ray segmentation | Padchest, ChestX-ray8, MIMIC-III | [torch](https://arxiv.org/pdf/github.com/MECLabTUDA/M3D-NCA) | Med-NCA, trained with variance-weighted loss |
+| [Paper](https://arxiv.org/abs/2302.03473)              | 2023 | MRI Segmentation on Raspberry Pi | Decathlon (Hippocampus & Prostate), ISBI 2013 challenge | [torch](https://github.com/MECLabTUDA/Med-NCA)  | Multi-scale NCA |
+| [Paper](https://arxiv.org/pdf/2309.02954)              | 2023 | MRI Segmentation on Raspberry Pi | Decathlon (Hippocampus & Prostate) | [torch](https://github.com/MECLabTUDA/M3D-NCA) | 3D NCA with patchification|
+| [Paper](https://arxiv.org/pdf/2410.22265)              | 2024 | MRI Registration (Prostate, Hippocampus, other) | OASIS-1, PROMISE12, Dryad | [torch](https://github.com/MECLabTUDA/NCA-Morph) | 3D NCA with patchification |
+| [Paper](https://arxiv.org/pdf/2407.18114)              | 2024 | X-ray segmentation on smartphone | Padchest, ChestX-ray8, MIMIC-III | [torch](https://arxiv.org/pdf/github.com/MECLabTUDA/M3D-NCA) | Med-NCA, trained with variance-weighted loss |
 | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78186-5_25) | 2024 |   | CIFAR-10-C | N/A | NCA + VAE |
 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3638529.3654150) | 2024 | Shape generation | Custom shapes | [numpy+numba](https://github.com/ngaylinn/mocs-final) | HNCA (Hierarchical NCA) |
 | [Paper](https://www.sciencedirect.com/science/article/pii/S1746809424006050) | 2024 | Skin lesion segmentation | ISIC2017 |    | UNet-style network with NCA bottleneck |
-| [Paper](https://arxiv.org/pdf/2407.03018)              | 2024 | Generation          | | | Diffusion + NCA |
+| [Paper](https://arxiv.org/pdf/2407.03018)              | 2024 | Generation          | Optical Coherence Tomography | | Diffusion + NCA |
 | [Paper](https://arxiv.org/pdf/2504.21562)              | 2025 | Segmentation, Depth Est., edge AI | Capsule Endoscopic | [torch](https://github.com/MECLabTUDA/eNCApsulate) | NCA |
 | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10943578) | 2025       | Continual Hippocampus MRI Segmentation | HarP, Dryad, DecathHip | | |
 | [Paper](https://openreview.net/pdf?id=gIrVoQEDQv)      | 2025 | Image Compression   | COCO 2017 | N/A | Grid-based, "GNCA" |
