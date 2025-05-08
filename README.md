@@ -109,6 +109,7 @@ NCA code repositories, including accompanying repositories for publications list
 ## Tutorials
 
 - [Video: Growing NCA in Pytorch](https://www.youtube.com/watch?v=21ACbWoF2Oo)
+- [Video: Growing NCA](https://www.youtube.com/watch?v=9Kec_7WFyp0) - 15 Minute paper review by Yannic Kilcher
 - [Video: What are Neural Cellular Automata?](https://www.youtube.com/watch?v=3H79ZcBuw4M)
 - [Youtube-Channel: Programmable Artificial Life](https://www.youtube.com/@zzznah/videos) - Several videos on NCA
 - [Two-minute Papers feature of Growing NCA](https://www.youtube.com/watch?v=bXzauli1TyU)
@@ -120,7 +121,6 @@ Cool demo videos and visuals of NCAs in action.
 
 - [Video: Minecraft Morphogenesis](https://www.youtube.com/watch?v=-EzztzKoPeo)
 - [Interactive: Random NCA](https://nailbar.io/proj/curves/test10.html) - Clicking anywhere on the image randomizes the rule.
-- 
 
 ## Contributing
 
