@@ -10,7 +10,7 @@ This list is a curated collection of research papers and code repositories, pres
 Scope: Other types of self-organizing systems, traditional cellular automata, other deep learning techiques are not covered, unless they utilize a cellular automaton with a learned rule in their computation.
 Review papers are not listed here, unless they are reviews of Neural Cellular Automata in particular (no reviews of, e.g., self-organizing systems in general that mention NCA).
 
-Feel free to [contribute](#contributing).
+You are welcome to [contribute](#contributing) if you've found other NCA papers, code repositories or resources that you like to share.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -22,6 +22,7 @@ Feel free to [contribute](#contributing).
   - [Open Access](#open-access)
 - [Code](#code)
 - [Videos and Visuals](#videos-and-visuals)
+- [Study Material and Tutorials](#tutorials)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -42,6 +43,7 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 * [Physical Neural Cellular Automata for 2D Shape Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981214), Walker et al. 2022
 * [Goal-Guided Neural Cellular Automata: Learning to Control Self-organizing Systems](https://arxiv.org/pdf/2205.06806), Sudhakaran et al. 2022
 * [Variational Neural Cellular Automata](https://arxiv.org/pdf/2201.12360), Palm et al. 2022
+* [Empowered Neural Cellular Automata](https://arxiv.org/pdf/2205.06771), Grasso & Bongard 2022
 * [Attention-based Neural Cellular Automata](https://proceedings.neurips.cc/paper_files/paper/2022/file/361e5112d2eca09513bbd266e4b2d2be-Paper-Conference.pdf), Tasfaldet et al. 2022
 * [Med-NCA, Robust and Lightweight Segmentation with Neural Cellular Automata](https://arxiv.org/abs/2302.03473), Kalkhof et al. 2023
 * [M3D-NCA: Robust 3D Segmentation with Built-in Quality Control](https://arxiv.org/pdf/2309.02954), Kalkhof & Mukhopadhyay 2023
@@ -68,6 +70,14 @@ NCA code repositories, including accompanying repositories for publications list
 * [Predicting Geographic Information with Neural Cellular Automata](https://github.com/chenmingxiang110/NCA_Prediction): Reproduction of [paper](https://arxiv.org/pdf/2009.09347).
 * [NCALab](https://github.com/MECLabTUDA/NCAlab): Framework for training and evaluation of NCA models, including various examples for classification, segmentation, etc.
 * [Growing 3D Artefacts and Functional Machines with Neural Cellular Automata](https://github.com/real-itu/3d-artefacts-nca): Using NCA for generating Minecraft structures
+
+## Tutorials
+
+- [Video: Growing NCA in Pytorch](https://www.youtube.com/watch?v=21ACbWoF2Oo)
+- [Video: What are Neural Cellular Automata?](https://www.youtube.com/watch?v=3H79ZcBuw4M)
+- [Youtube-Channel: Programmable Artificial Life](https://www.youtube.com/@zzznah/videos) - Several videos on NCA
+- [Two-minutes Paper feature of Growing NCA](https://www.youtube.com/watch?v=bXzauli1TyU)
+
 
 ## Videos and Visuals
 
