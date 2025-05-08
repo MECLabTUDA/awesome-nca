@@ -20,12 +20,13 @@ Feel free to [contribute](#contributing).
 - [Research](#research)
   - [Open Access](#open-access)
 - [Code](#code)
+- [Videos and Visuals](#videos-and-visuals)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Research
 
-Papers presenting theoretical and methodological contributions to NCA research, ordered by publication date.
+Papers presenting theoretical and methodological contributions to NCA research, ordered by publication year.
 
 ### Open Access
 
@@ -33,6 +34,7 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 * [Self-classifying MNIST Digits](https://distill.pub/2020/selforg/mnist/), Randazzo et al. 2020
 * [Image Generation With Neural Cellular Automata](https://arxiv.org/abs/2010.04949), Chen & Wang 2020
 * [Self-organizing Textures](https://distill.pub/selforg/2021/textures/), Niklasson et al. 2021
+* [Growing 3D Artefacts and Functional Machines with Neural Cellular Automata](https://arxiv.org/abs/2103.08737), Sudhakaran et al. 2021
 * [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial/), Randazzo et al. 2021
 * [Generative Adversarial Neural Cellular Automata](https://arxiv.org/abs/2108.04328), Otte et al. 2021
 * [Med-NCA, Robust and Lightweight Segmentation with Neural Cellular Automata](https://arxiv.org/abs/2302.03473), Kalkhof et al. 2023
@@ -50,7 +52,13 @@ NCA code repositories, including accompanying repositories for publications list
 * [M3D NCA](https://github.com/MECLabTUDA/M3D-NCA): Implementation of Med-NCA, M3D-NCA and related works.
 * [VAE-NCA](https://github.com/chenmingxiang110/VAE-NCA): Reproduction of VAE NCA
 * [NCALab](https://github.com/MECLabTUDA/NCAlab): Framework for training and evaluation of NCA models, including various examples for classification, segmentation, etc.
+* [Growing 3D Artefacts and Functional Machines with Neural Cellular Automata](https://github.com/real-itu/3d-artefacts-nca): Using NCA for generating Minecraft structures
 
+## Videos and Visuals
+
+Cool demo videos and visuals of NCAs in action.
+
+- [Minecraft Morphogenesis](https://www.youtube.com/watch?v=-EzztzKoPeo)
 
 
 ## Contributing
