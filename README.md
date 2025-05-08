@@ -66,7 +66,7 @@ NCA code repositories, including accompanying repositories for publications list
 
 * [Growing-Neural-Cellular-Automata (Pytorch)](https://github.com/chenmingxiang110/Growing-Neural-Cellular-Automata/tree/master): Pytorch implementation of "Growing Neural Cellular Automata", including interactive pygame demo.
 * [M3D NCA](https://github.com/MECLabTUDA/M3D-NCA): Implementation of Med-NCA, M3D-NCA and related works.
-* [VAE-NCA](https://github.com/chenmingxiang110/VAE-NCA): Reproduction of VAE NCA
+* [VAE-NCA](https://github.com/chenmingxiang110/VAE-NCA): Reproduction of [paper](https://arxiv.org/abs/2010.04949) "Image Generation With Neural Cellular Automata" (2020)
 * [Predicting Geographic Information with Neural Cellular Automata](https://github.com/chenmingxiang110/NCA_Prediction): Reproduction of [paper](https://arxiv.org/pdf/2009.09347).
 * [NCALab](https://github.com/MECLabTUDA/NCAlab): Framework for training and evaluation of NCA models, including various examples for classification, segmentation, etc.
 * [Growing 3D Artefacts and Functional Machines with Neural Cellular Automata](https://github.com/real-itu/3d-artefacts-nca): Using NCA for generating Minecraft structures
