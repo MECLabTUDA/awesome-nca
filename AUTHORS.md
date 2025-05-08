@@ -1,3 +1,3 @@
 # Authors
 
-- Henry J. Krumb, TU Darmstadt
+- [henrykrumb](https://github.com/henrykrumb) - Henry J. Krumb, TU Darmstadt
