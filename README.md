@@ -8,6 +8,7 @@ This list is a curated collection of research papers and code repositories, pres
 
 Scope: Other types of self-organizing systems, traditional cellular automata, other deep learning techiques are not covered,
 unless they utilize a cellular automaton with a learned rule at some point.
+Review papers are not listed here, unless they are reviews of Neural Cellular Automata in particular (no reviews of, e.g., self-organizing systems in general).
 
 Feel free to [contribute](#contributing).
 
@@ -38,14 +39,23 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 * [Growing 3D Artefacts and Functional Machines with Neural Cellular Automata](https://arxiv.org/abs/2103.08737), Sudhakaran et al. 2021
 * [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial/), Randazzo et al. 2021
 * [Generative Adversarial Neural Cellular Automata](https://arxiv.org/abs/2108.04328), Otte et al. 2021
+* [Physical Neural Cellular Automata for 2D Shape Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981214), Walker et al. 2022
+* [Goal-Guided Neural Cellular Automata: Learning to Control Self-organizing Systems](https://arxiv.org/pdf/2205.06806), Sudhakaran et al. 2022
+* [Variational Neural Cellular Automata](https://arxiv.org/pdf/2201.12360), Palm et al. 2022
+* [Attention-based Neural Cellular Automata](https://proceedings.neurips.cc/paper_files/paper/2022/file/361e5112d2eca09513bbd266e4b2d2be-Paper-Conference.pdf), Tasfaldet et al. 2022
 * [Med-NCA, Robust and Lightweight Segmentation with Neural Cellular Automata](https://arxiv.org/abs/2302.03473), Kalkhof et al. 2023
 * [M3D-NCA: Robust 3D Segmentation with Built-in Quality Control](https://arxiv.org/pdf/2309.02954), Kalkhof & Mukhopadhyay 2023
 * [NCA-Morph: Medical Image Registration with Neural Cellular Automata](https://arxiv.org/pdf/2410.22265), Ranem et al. 2024
 * [Unsupervised Training of Neural Cellular Automata on Edge Devices](https://arxiv.org/pdf/2407.18114), Kalkhof et al. 2024
 * [Localized Data Representation with NCA-Based Autoencoders](https://link.springer.com/chapter/10.1007/978-3-031-78186-5_25), Ihm et al. 2024
+* [Evolving Hierarchical Neural Cellular Automata](https://dl.acm.org/doi/pdf/10.1145/3638529.3654150), Bielawski et al. 2024
+* [Skin lesion segmentation via Neural Cellular Automata](https://www.sciencedirect.com/science/article/pii/S1746809424006050), Yue et al. 2024
 * [Unraveling Neural Cellular Automata for Lightweight Image Compression](https://openreview.net/pdf?id=gIrVoQEDQv), Falcao et al. 2025
 * [MED-NCA: Bio-inspired medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841525001483), Kalkhof et al. 2025
 * [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/), Miotti et al. 2025
+
+### Restricted Access
+
 
 ## Code
 
