@@ -65,32 +65,32 @@ None so far
 
 ### Overview
 
-| Paper URL                                              | Year | Downstream Task    | Dataset(s)                    | Code | Model              |
-| ------------------------------------------------------ | ---- | ------------------ | ----------------------------- | ---- | ------------------ |
-| [Paper](https://distill.pub/2020/growing-ca/)          | 2020 | Grow from seed     | Emojis                        | [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/growing_ca.ipynb), [torch](https://github.com/chenmingxiang110/Growing-Neural-Cellular-Automata/tree/master) | NCA |
-| [Paper](https://distill.pub/2020/selforg/mnist/)       | 2020 | Classification     | MNIST Digits                  | [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/mnist_ca.ipynb) | NCA                |
-| [Paper](https://arxiv.org/abs/2010.04949)              | 2020 | Generation         | Emojis, MNIST, CelebA         | [torch](https://github.com/chenmingxiang110/VAE-NCA) | NCA + VAE          |
-| [Paper](https://arxiv.org/pdf/2009.09347)              | 2020 | Traffic Prediction | Maps+Traffic overlay (custom) | [torch](https://github.com/chenmingxiang110/NCA_Prediction) | Multi-layer NCA    |
-| [Paper](https://distill.pub/selforg/2021/textures/)    | 2021 | Texture Generation | [Dataset](https://arxiv.org/pdf/1311.3618) | [torch](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/texture_nca_pytorch.ipynb), [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/texture_nca_tf2.ipynb) | NCA        |
-| [Paper](https://arxiv.org/abs/2103.08737)              | 2021 | 3D Structure Gen.  | Minecraft Structures          | [torch](https://github.com/real-itu/3d-artefacts-nca) | Multi-layer 3D NCA |
-| [Paper](https://distill.pub/selforg/2021/adversarial/) | 2021 | Classification, Reprogramming | MNIST              | [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/adversarial_reprogramming_ca/adversarial_mnist_ca.ipynb) | NCA                |
-| [Paper](https://arxiv.org/abs/2108.04328)              | 2021 | Generation         | Emojis                        | N/A  | NCA + GAN          |
-| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981214&tag=1) | 2022 | Shape self-classification on µC H/W | Digits (custom, but simple)   | N/A               | NCA  |
-| [Paper](https://arxiv.org/pdf/2205.06806)              | 2022 |                    | Emojis                        | [torch](https://github.com/shyamsn97/controllable-ncas) | NCA  |
-| [Paper](https://arxiv.org/pdf/2201.12360)              | 2022 |                    | Emojis, CelebA | [torch](https://github.com/rasmusbergpalm/vnca) | NCA + VAE |
-| [Paper](https://arxiv.org/pdf/2205.06771)              | 2022 | Grow from seed     | Custom shapes  | [numpy](https://github.com/caitlingrasso/empowered-nca) | NCA trained with information-theoretic fitness function and age-fitness pareto optimization |
+| Paper URL                                              | Year | Downstream Task     | Dataset(s)                    | Code | Model              |
+| ------------------------------------------------------ | ---- | ------------------- | ----------------------------- | ---- | ------------------ |
+| [Paper](https://distill.pub/2020/growing-ca/)          | 2020 | Grow from seed      | Emojis                        | [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/growing_ca.ipynb), [torch](https://github.com/chenmingxiang110/Growing-Neural-Cellular-Automata/tree/master) | NCA |
+| [Paper](https://distill.pub/2020/selforg/mnist/)       | 2020 | Classification      | MNIST Digits                  | [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/mnist_ca.ipynb) | NCA                |
+| [Paper](https://arxiv.org/abs/2010.04949)              | 2020 | Generation          | Emojis, MNIST, CelebA         | [torch](https://github.com/chenmingxiang110/VAE-NCA) | NCA + VAE          |
+| [Paper](https://arxiv.org/pdf/2009.09347)              | 2020 | Traffic Prediction  | Maps+Traffic overlay (custom) | [torch](https://github.com/chenmingxiang110/NCA_Prediction) | Multi-layer NCA    |
+| [Paper](https://distill.pub/selforg/2021/textures/)    | 2021 | Texture Generation  | [Dataset](https://arxiv.org/pdf/1311.3618) | [torch](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/texture_nca_pytorch.ipynb), [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/texture_nca_tf2.ipynb) | NCA        |
+| [Paper](https://arxiv.org/abs/2103.08737)              | 2021 | 3D Structure Gen.   | Minecraft Structures          | [torch](https://github.com/real-itu/3d-artefacts-nca) | Multi-layer 3D NCA |
+| [Paper](https://distill.pub/selforg/2021/adversarial/) | 2021 | Classification, Reprogramming | MNIST               | [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/adversarial_reprogramming_ca/adversarial_mnist_ca.ipynb) | NCA                |
+| [Paper](https://arxiv.org/abs/2108.04328)              | 2021 | Generation          | Emojis                        | N/A  | NCA + GAN          |
+| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981214&tag=1) | 2022  | Shape self-classification on µC H/W | Digits (custom, but simple)   | N/A               | NCA  |
+| [Paper](https://arxiv.org/pdf/2205.06806)              | 2022 |                     | Emojis                        | [torch](https://github.com/shyamsn97/controllable-ncas) | NCA  |
+| [Paper](https://arxiv.org/pdf/2201.12360)              | 2022 |                     | Emojis, CelebA                | [torch](https://github.com/rasmusbergpalm/vnca) | NCA + VAE |
+| [Paper](https://arxiv.org/pdf/2205.06771)              | 2022 | Grow from seed      | Custom shapes                 | [numpy](https://github.com/caitlingrasso/empowered-nca) | NCA trained with information-theoretic fitness function and age-fitness pareto optimization |
 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/361e5112d2eca09513bbd266e4b2d2be-Paper-Conference.pdf) | 2022 | | | | ViT + NCA (ViTCA) |
 | [Paper](https://arxiv.org/abs/2302.03473)              | 2023 | MRI Segmentation on Raspberry Pi | Decathlon (Hippocampus & Prostate), ISBI 2013 challenge | [torch](https://github.com/MECLabTUDA/Med-NCA)  | Multi-scale NCA |
 | [Paper](https://arxiv.org/pdf/2309.02954)              | 2023 | MRI Segmentation on Raspberry Pi | Decathlon (Hippocampus & Prostate) | [torch](https://github.com/MECLabTUDA/M3D-NCA) | 3D NCA with patchification|
 | [Paper](https://arxiv.org/pdf/2410.22265)              | 2024 | MRI Registration (Prostate, Hippocampus, other) | OASIS-1, PROMISE12, Dryad | [torch](https://github.com/MECLabTUDA/NCA-Morph) | 3D NCA with patchification |
 | [Paper](https://arxiv.org/pdf/2407.18114)              | 2024 | X-ray segmentation on smartphone | Padchest, ChestX-ray8, MIMIC-III | [torch](https://arxiv.org/pdf/github.com/MECLabTUDA/M3D-NCA) | Med-NCA, trained with variance-weighted loss |
-| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78186-5_25) | 2024 |   | CIFAR-10-C | N/A | NCA + VAE |
+| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78186-5_25) | 2024      |   | CIFAR-10-C | N/A | NCA + VAE |
 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3638529.3654150) | 2024 | Shape generation | Custom shapes | [numpy+numba](https://github.com/ngaylinn/mocs-final) | HNCA (Hierarchical NCA) |
-| [Paper](https://www.sciencedirect.com/science/article/pii/S1746809424006050) | 2024 | Skin lesion segmentation | ISIC2017 |    | UNet-style network with NCA bottleneck |
-| [Paper](https://arxiv.org/pdf/2407.03018)              | 2024 | Generation          | Optical Coherence Tomography | | Diffusion + NCA |
+| [Paper](https://www.sciencedirect.com/science/article/pii/S1746809424006050) | 2024 | Skin lesion segmentation | ISIC2017 | N/A | UNet-style network with NCA bottleneck |
+| [Paper](https://arxiv.org/pdf/2407.03018)              | 2024 | Generation          | Optical Coherence Tomography  | [torch]( https://github.com/xmed-lab/GeCA) | Diffusion + NCA |
 | [Paper](https://arxiv.org/pdf/2504.21562)              | 2025 | Segmentation, Depth Est., edge AI | Capsule Endoscopic | [torch](https://github.com/MECLabTUDA/eNCApsulate) | NCA |
 | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10943578) | 2025       | Continual Hippocampus MRI Segmentation | HarP, Dryad, DecathHip | | |
-| [Paper](https://openreview.net/pdf?id=gIrVoQEDQv)      | 2025 | Image Compression   | COCO 2017 | N/A | Grid-based, "GNCA" |
+| [Paper](https://openreview.net/pdf?id=gIrVoQEDQv)      | 2025 | Image Compression   | COCO 2017                     | N/A | Grid-based, "GNCA" |
 | [Paper](https://google-research.github.io/self-organising-systems/difflogic-ca/) | 2025 | Grow from seed using learned logic gates | Emojis, Icons | [jax](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/diffLogic_CA.ipynb) | Differential Logic Gates + NCA |
 
 
