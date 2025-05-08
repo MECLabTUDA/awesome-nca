@@ -76,15 +76,15 @@ None so far
 | [Paper](https://distill.pub/selforg/2021/adversarial/) | 2021 | Classification, Reprogramming | MNIST               | [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/adversarial_reprogramming_ca/adversarial_mnist_ca.ipynb) | NCA                |
 | [Paper](https://arxiv.org/abs/2108.04328)              | 2021 | Generation          | Emojis                        | N/A  | NCA + GAN          |
 | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981214&tag=1) | 2022  | Shape self-classification on µC H/W | Digits (custom, but simple)   | N/A               | NCA  |
-| [Paper](https://arxiv.org/pdf/2205.06806)              | 2022 |                     | Emojis                        | [torch](https://github.com/shyamsn97/controllable-ncas) | NCA  |
-| [Paper](https://arxiv.org/pdf/2201.12360)              | 2022 |                     | Emojis, CelebA                | [torch](https://github.com/rasmusbergpalm/vnca) | NCA + VAE |
+| [Paper](https://arxiv.org/pdf/2205.06806)              | 2022 | Control of self-organization | Emojis               | [torch](https://github.com/shyamsn97/controllable-ncas) | NCA  |
+| [Paper](https://arxiv.org/pdf/2201.12360)              | 2022 | Gen. Modelling      | Emojis, CelebA                | [torch](https://github.com/rasmusbergpalm/vnca) | NCA + VAE |
 | [Paper](https://arxiv.org/pdf/2205.06771)              | 2022 | Grow from seed      | Custom shapes                 | [numpy](https://github.com/caitlingrasso/empowered-nca) | NCA trained with information-theoretic fitness function and age-fitness pareto optimization |
-| [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/361e5112d2eca09513bbd266e4b2d2be-Paper-Conference.pdf) | 2022 | | | | ViT + NCA (ViTCA) |
+| [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/361e5112d2eca09513bbd266e4b2d2be-Paper-Conference.pdf) | 2022 | Classification | Tiny ImageNet, MNIST, FashionMNIST, CelebA | N/A  | ViT + NCA (ViTCA) |
 | [Paper](https://arxiv.org/abs/2302.03473)              | 2023 | MRI Segmentation on Raspberry Pi | Decathlon (Hippocampus & Prostate), ISBI 2013 challenge | [torch](https://github.com/MECLabTUDA/Med-NCA)  | Multi-scale NCA |
 | [Paper](https://arxiv.org/pdf/2309.02954)              | 2023 | MRI Segmentation on Raspberry Pi | Decathlon (Hippocampus & Prostate) | [torch](https://github.com/MECLabTUDA/M3D-NCA) | 3D NCA with patchification|
 | [Paper](https://arxiv.org/pdf/2410.22265)              | 2024 | MRI Registration (Prostate, Hippocampus, other) | OASIS-1, PROMISE12, Dryad | [torch](https://github.com/MECLabTUDA/NCA-Morph) | 3D NCA with patchification |
 | [Paper](https://arxiv.org/pdf/2407.18114)              | 2024 | X-ray segmentation on smartphone | Padchest, ChestX-ray8, MIMIC-III | [torch](https://arxiv.org/pdf/github.com/MECLabTUDA/M3D-NCA) | Med-NCA, trained with variance-weighted loss |
-| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78186-5_25) | 2024      |   | CIFAR-10-C | N/A | NCA + VAE |
+| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78186-5_25) | 2024 | Classification | CIFAR-10-C | N/A | NCA + VAE |
 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3638529.3654150) | 2024 | Shape generation | Custom shapes | [numpy+numba](https://github.com/ngaylinn/mocs-final) | HNCA (Hierarchical NCA) |
 | [Paper](https://www.sciencedirect.com/science/article/pii/S1746809424006050) | 2024 | Skin lesion segmentation | ISIC2017 | N/A | UNet-style network with NCA bottleneck |
 | [Paper](https://arxiv.org/pdf/2407.03018)              | 2024 | Generation          | Optical Coherence Tomography  | [torch]( https://github.com/xmed-lab/GeCA) | Diffusion + NCA |
