@@ -32,6 +32,8 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 
 ### Open Access
 
+#### On 2D/3D Image Grids
+
 * [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/), Mordvintsev et al. 2020
 * [Self-classifying MNIST Digits](https://distill.pub/2020/selforg/mnist/), Randazzo et al. 2020
 * [Image Generation With Neural Cellular Automata](https://arxiv.org/abs/2010.04949), Chen & Wang 2020
@@ -62,6 +64,13 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 * [MED-NCA: Bio-inspired medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841525001483), Kalkhof et al. 2025
 * [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/), Miotti et al. 2025
 * [Parameter-efficient diffusion with neural cellular automata](https://www.nature.com/articles/s44335-025-00026-4), Kalkhof et al. 2025
+
+#### Graph NCA
+
+* [Learning Graph Cellular Automata](https://arxiv.org/abs/2110.14237), Grattarola et al. 2021
+* [Training Topology With Graph Neural Cellular Automata](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10187381), Dwyer et al. 2023
+* [Physics-Informed Graph Neural Cellular Automata: an Application to Compartmental Modelling](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10650578)
+* [E(n)-equivariant Graph Neural Cellular Automata](https://arxiv.org/pdf/2301.10497), Gala et al. 2025
 
 ### Restricted Access
 
@@ -113,6 +122,7 @@ NCA code repositories, including accompanying repositories for publications list
 * [Predicting Geographic Information with Neural Cellular Automata](https://github.com/chenmingxiang110/NCA_Prediction): Reproduction of [paper](https://arxiv.org/pdf/2009.09347).
 * [NCALab](https://github.com/MECLabTUDA/NCAlab): Framework for training and evaluation of NCA models, including various examples for classification, segmentation, etc.
 * [Growing 3D Artefacts and Functional Machines with Neural Cellular Automata](https://github.com/real-itu/3d-artefacts-nca): Using NCA for generating Minecraft structures
+* [Learning Graph Cellular Automata](https://github.com/danielegrattarola/GNCA): Code for [paper](https://arxiv.org/abs/2110.14237)
 
 ## Tutorials
 
@@ -124,6 +134,7 @@ Tutorials and study material related to NCA.
 - [Youtube-Channel: Programmable Artificial Life](https://www.youtube.com/@zzznah/videos) - Several videos on NCA
 - [Two-minute Papers feature of Growing NCA](https://www.youtube.com/watch?v=bXzauli1TyU)
 - [NCA do active inference](https://aman-bhargava.com/ai/neuro/neuromorphic/2024/03/25/nca-do-active-inference.html)
+- [Graph Neural Cellular Automata](https://danielegrattarola.github.io/posts/2021-11-08/graph-neural-cellular-automata.html) - Blog article
 
 
 ## Videos and Visuals
