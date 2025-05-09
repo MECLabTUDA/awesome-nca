@@ -20,6 +20,7 @@ You are welcome to [contribute](#contributing) if you've found other NCA papers,
 
 - [Research](#research)
   - [Open Access](#open-access)
+  - [Restricted Access](#restricted-access)
 - [Code](#code)
 - [Videos and Visuals](#videos-and-visuals)
 - [Study Material and Tutorials](#tutorials)
