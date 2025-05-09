@@ -34,6 +34,8 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 
 #### On 2D/3D Image Grids
 
+Works that study NCAs applied to 2D or 3D lattices.
+
 * [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/), Mordvintsev et al. 2020
 * [Self-classifying MNIST Digits](https://distill.pub/2020/selforg/mnist/), Randazzo et al. 2020
 * [Image Generation With Neural Cellular Automata](https://arxiv.org/abs/2010.04949), Chen & Wang 2020
@@ -67,9 +69,11 @@ Papers presenting theoretical and methodological contributions to NCA research, 
 
 #### Graph NCA
 
+Works that study Graph Neural Cellular Automata.
+
 * [Learning Graph Cellular Automata](https://arxiv.org/abs/2110.14237), Grattarola et al. 2021
 * [Training Topology With Graph Neural Cellular Automata](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10187381), Dwyer et al. 2023
-* [Physics-Informed Graph Neural Cellular Automata: an Application to Compartmental Modelling](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10650578)
+* [Physics-Informed Graph Neural Cellular Automata: an Application to Compartmental Modelling](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10650578), Navarin et al. 2024
 * [E(n)-equivariant Graph Neural Cellular Automata](https://arxiv.org/pdf/2301.10497), Gala et al. 2025
 
 ### Restricted Access
