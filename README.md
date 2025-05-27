@@ -67,6 +67,7 @@ Works that study NCAs applied to 2D or 3D lattices.
 * [MED-NCA: Bio-inspired medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841525001483), Kalkhof et al. 2025
 * [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/), Miotti et al. 2025
 * [Parameter-efficient diffusion with neural cellular automata](https://www.nature.com/articles/s44335-025-00026-4), Kalkhof et al. 2025
+* [A Path to Universal Neural Cellular Automata](https://arxiv.org/pdf/2505.13058), Bêna et al. 2025
 
 #### Graph NCA
 
