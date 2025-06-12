@@ -61,6 +61,7 @@ Works that study NCAs applied to 2D or 3D lattices.
 * [Skin lesion segmentation via Neural Cellular Automata](https://www.sciencedirect.com/science/article/pii/S1746809424006050), Yue et al. 2024
 * [An Organism Starts with a Single Pix-Cell: A Neural Cellular Diffusion for High-Resolution Image Synthesis](https://arxiv.org/pdf/2407.03018), Elbatel et al. 2024
 * [Deep learning with photonic neural cellular automata](https://www.nature.com/articles/s41377-024-01651-7), Li et al. 2024
+* [Neural Cellular Automata for Lightweight, Robust and Explainable Classification of White Blood Cell Images](https://arxiv.org/abs/2404.05584), Deutges et al. 2024
 * [eNCApsulate: Neural Cellular Automata for Precision Diagnosis on Capsule Endoscopes](https://arxiv.org/pdf/2504.21562), Krumb & Mukhopadhyay 2025
 * [NCAdapt: Dynamic Adaptation with Domain-Specific Neural Cellular Automata for Continual Hippocampus Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10943578), Ranem & Mukhopadhyay 2025
 * [Unraveling Neural Cellular Automata for Lightweight Image Compression](https://openreview.net/pdf?id=gIrVoQEDQv), Falcao et al. 2025
