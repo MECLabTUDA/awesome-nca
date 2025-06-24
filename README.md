@@ -41,6 +41,7 @@ Works that study NCAs applied to 2D or 3D lattices.
 * [Self-classifying MNIST Digits](https://distill.pub/2020/selforg/mnist/), Randazzo et al. 2020
 * [Image Generation With Neural Cellular Automata](https://arxiv.org/abs/2010.04949), Chen & Wang 2020
 * [Predicting Geographic Information with Neural Cellular Automata](https://arxiv.org/pdf/2009.09347), Chen et al. 2020
+* [Image segmentation via Cellular Automata](https://arxiv.org/pdf/2008.04965.pdf), Sandler et al. 2020
 * [Self-organizing Textures](https://distill.pub/selforg/2021/textures/), Niklasson et al. 2021
 * [Growing 3D Artefacts and Functional Machines with Neural Cellular Automata](https://arxiv.org/abs/2103.08737), Sudhakaran et al. 2021
 * [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial/), Randazzo et al. 2021
@@ -93,6 +94,7 @@ Tabular overview of research papers on NCA since 2020, ordered by publication ye
 | [Paper](https://distill.pub/2020/selforg/mnist/)       | 2020 | Classification      | MNIST Digits                  | [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/mnist_ca.ipynb) | NCA                |
 | [Paper](https://arxiv.org/abs/2010.04949)              | 2020 | Generation          | Emojis, MNIST, CelebA         | [torch](https://github.com/chenmingxiang110/VAE-NCA) | NCA + VAE          |
 | [Paper](https://arxiv.org/pdf/2009.09347)              | 2020 | Traffic Prediction  | Maps+Traffic overlay (custom) | [torch](https://github.com/chenmingxiang110/NCA_Prediction) | Multi-layer NCA    |
+| [Paper](https://arxiv.org/pdf/2008.04965.pdf)          | 2020 | Image Segmentation  | Oxford cats & dogs            | N/A | NCA with Gate |
 | [Paper](https://distill.pub/selforg/2021/textures/)    | 2021 | Texture Generation  | [Dataset](https://arxiv.org/pdf/1311.3618) | [torch](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/texture_nca_pytorch.ipynb), [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/texture_nca_tf2.ipynb) | NCA        |
 | [Paper](https://arxiv.org/abs/2103.08737)              | 2021 | 3D Structure Gen.   | Minecraft Structures          | [torch](https://github.com/real-itu/3d-artefacts-nca) | Multi-layer 3D NCA |
 | [Paper](https://distill.pub/selforg/2021/adversarial/) | 2021 | Classification, Reprogramming | MNIST               | [tensorflow](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/adversarial_reprogramming_ca/adversarial_mnist_ca.ipynb) | NCA                |
