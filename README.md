@@ -72,6 +72,7 @@ Works that study NCAs applied to 2D or 3D lattices.
 * [A Path to Universal Neural Cellular Automata](https://arxiv.org/pdf/2505.13058), Bêna et al. 2025
 * [ARC-NCA: Towards Developmental Solutions to the Abstraction and Reasoning Corpus](https://arxiv.org/pdf/2505.08778), Guichard et al. 2025
 * [Neural Cellular Automata for ARC-AGI](https://www.arxiv.org/abs/2506.15746), Xu and Miikkulainen 2025
+* [Equitable Federated Learning with NCA](https://arxiv.org/abs/2506.21735), Lemke et al. 2025
 
 #### Graph NCA
 
@@ -122,6 +123,7 @@ Tabular overview of research papers on NCA since 2020, ordered by publication ye
 | [Paper](https://openreview.net/pdf?id=gIrVoQEDQv)      | 2025 | Image Compression   | COCO 2017                     | N/A | Grid-based, "GNCA" |
 | [Paper](https://google-research.github.io/self-organising-systems/difflogic-ca/) | 2025 | Grow from seed using learned logic gates | Emojis, Icons | [jax](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/diffLogic_CA.ipynb) | Differential Logic Gates + NCA |
 | [Paper](https://www.nature.com/articles/s44335-025-00026-4) | 2025 | Image Generation | CelebA, Pathology | [torch](https://github.com/MECLabTUDA/M3D-NCA/tree/parameter_efficient_diffusion) | FourierDiff-NCA, Fourier-based diffusion |
+| [Paper](https://arxiv.org/abs/2506.21735) | 2025 | Federated Learning | Ultrasound, X-ray | []() | Med-NCA backbone in federated setup |
 
 ## Code
 
