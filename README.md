@@ -113,7 +113,7 @@ Tabular overview of research papers on NCA since 2020, ordered by publication ye
 | [Paper](https://arxiv.org/pdf/2302.10197)              | 2023 | Grow from seed(s)   | Emojis                        | [torch](https://github.com/google-research/self-organising-systems/blob/master/isotropic_nca/blogpost_isonca_single_seed_pytorch.ipynb) | Steerable NCA |
 | [Paper](https://arxiv.org/pdf/2410.22265)              | 2024 | MRI Registration (Prostate, Hippocampus, other) | OASIS-1, PROMISE12, Dryad | [torch](https://github.com/MECLabTUDA/NCA-Morph) | 3D NCA with patchification |
 | [Paper](https://arxiv.org/pdf/2407.18114)              | 2024 | X-ray segmentation on smartphone | Padchest, ChestX-ray8, MIMIC-III | [torch](https://arxiv.org/pdf/github.com/MECLabTUDA/M3D-NCA) | Med-NCA, trained with variance-weighted loss |
-| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78186-5_25) | 2024 | Classification | CIFAR-10-C | N/A | NCA + VAE |
+| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78186-5_25) | 2024 | Classification | CIFAR-10-C | N/A | NCA-based Autoencoder |
 | [Paper](https://www.nature.com/articles/s41377-024-01651-7) | 2024 | Classification | FashionMNIST | N/A | NCA on photonics hardware |
 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3638529.3654150) | 2024 | Shape generation | Custom shapes | [numpy+numba](https://github.com/ngaylinn/mocs-final) | HNCA (Hierarchical NCA) |
 | [Paper](https://www.sciencedirect.com/science/article/pii/S1746809424006050) | 2024 | Skin lesion segmentation | ISIC2017 | N/A | UNet-style network with NCA bottleneck |
