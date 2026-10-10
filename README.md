@@ -136,6 +136,7 @@ NCA code repositories, including accompanying repositories for publications list
 * [NCALab](https://github.com/MECLabTUDA/NCAlab): Framework for training and evaluation of NCA models, including various examples for classification, segmentation, etc.
 * [Growing 3D Artefacts and Functional Machines with Neural Cellular Automata](https://github.com/real-itu/3d-artefacts-nca): Using NCA for generating Minecraft structures
 * [Learning Graph Cellular Automata](https://github.com/danielegrattarola/GNCA): Code for [paper](https://arxiv.org/abs/2110.14237)
+* [MICA (Minimal Inference Cellular Automaton)](https://github.com/Vovala14/Mica-Ai): Experimental language modeling with learned discrete integer transition rules on a cellular ring, rather than a neural update network. Byte-level Ember and word-level Flame-W; non-commercial research license.
 
 ## Tutorials
 
