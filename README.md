@@ -136,6 +136,7 @@ NCA code repositories, including accompanying repositories for publications list
 * [NCALab](https://github.com/MECLabTUDA/NCAlab): Framework for training and evaluation of NCA models, including various examples for classification, segmentation, etc.
 * [Growing 3D Artefacts and Functional Machines with Neural Cellular Automata](https://github.com/real-itu/3d-artefacts-nca): Using NCA for generating Minecraft structures
 * [Learning Graph Cellular Automata](https://github.com/danielegrattarola/GNCA): Code for [paper](https://arxiv.org/abs/2110.14237)
+* [Swarm 1-D tag consensus (CAX)](https://github.com/ceedot-rock/cax/blob/add-swarm-nca/examples/15_swarm.ipynb): Isolated vs chained 1-D workers. Each cell votes idle/lit/run/match; isolated workers cannot see across a chunk cut. Hand-coded rule (not a trained NCA). System: `cax.cs.swarm`.
 
 ## Tutorials
 
